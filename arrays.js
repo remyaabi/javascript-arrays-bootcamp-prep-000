@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars=['snickers', 'hundred grand', 'kitkat', 'skittles'];
 var array1=[12,14,15]
 var array2=[1]
@@ -47,3 +48,6 @@ function destructivelyAddElementToEndOfArray(array1,element){
     array1.push(element)
     return array1
 }
+=======
+var chocolateBars=['snickers', 'hundred grand', 'kitkat', 'skittles'];
+>>>>>>> ecbb52cf2cce13cbbef1527503dd93419cd7cae7
